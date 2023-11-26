@@ -1,7 +1,19 @@
 # Generative Modelling of Stochastic Actions with Arbitrary Constraints in Reinforcement Learning
 
-Authors: Changyu Chen, Ramesha Karunasena, Thanh Hong Nguyen, Arunesh Sinha, Pradeep Varakantham
+This branch contains source code for the [Flow-IAR website](https://cameron-chen.github.io/flow-iar).
 
-🚧 **Please Note: Code is Coming Soon! Stay Tuned!** 🚧
+If you find our work useful please cite:
+<pre>
+@inproceedings{chen2023generative,
+  title     = {Generative Modelling of Stochastic Actions with Arbitrary Constraints in Reinforcement Learning},
+  author    = {Chen, Changyu and Karunasena, Ramesha and Nguyen, Thanh Hong and Sinha, Arunesh and Varakantham, Pradeep},
+  booktitle = {Thirty-Seventh Conference on Neural Information Processing Systems},
+  year      = {2023}
+}
+</pre>
 
-We're currently hard at work crafting the codebase for this project. We appreciate your patience and interest.
+The website template is borrowed from [Nerfies](https://nerfies.github.io/).
+
+
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
