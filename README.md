@@ -4,11 +4,12 @@ This branch contains source code for the [Flow-IAR website](https://cameron-chen
 
 If you find our work useful please cite:
 <pre>
-@inproceedings{chen2023generative,
-  title     = {Generative Modelling of Stochastic Actions with Arbitrary Constraints in Reinforcement Learning},
-  author    = {Chen, Changyu and Karunasena, Ramesha and Nguyen, Thanh Hong and Sinha, Arunesh and Varakantham, Pradeep},
-  booktitle = {Thirty-Seventh Conference on Neural Information Processing Systems},
-  year      = {2023}
+@inproceedings{
+  chen2023generative,
+  title={Generative Modelling of Stochastic Actions with Arbitrary Constraints in Reinforcement Learning},
+  author={Changyu Chen and Ramesha Karunasena and Thanh Hong Nguyen and Arunesh Sinha and Pradeep Varakantham},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
 }
 </pre>
 
