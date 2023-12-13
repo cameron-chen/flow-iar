@@ -1,0 +1,25 @@
+ale_py==0.7.4
+einops==0.4.1
+gym==0.21
+joblib==1.1.0
+matplotlib==3.5.1
+networkx==2.8.4
+normflows==1.4
+numpy==1.22.3
+PyYAML==6.0
+sb3_contrib==1.5.0
+scipy==1.8.0
+stable_baselines3==1.5.0
+torch_geometric==2.0.4
+torchinfo==1.7.0
+wandb
+tensorboard
+opencv-python
+pettingzoo==1.12.0
+geomloss==0.2.5
+numba==0.56.4
+
+# survae==0.1: from https://github.com/didriknielsen/survae_flows
+# torch==1.11.0: from official site
+# pytorch-sparse: from conda, `conda install pytorch-sparse -c pyg`
+# pyflann: from https://github.com/ChangyWen/wolpertinger_ddpg.git
